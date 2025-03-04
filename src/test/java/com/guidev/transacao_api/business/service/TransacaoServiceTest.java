@@ -77,5 +77,4 @@ public class TransacaoServiceTest {
         assertFalse(transacoes.contains(dto));
         assertTrue(transacoes.contains(transacao));
     }
-
 }
